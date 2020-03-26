@@ -1,0 +1,8 @@
+French Fries,with garlic and parmesan,$2.99,Appetizer
+Chicken Burger,Juicy grilled chicken patty with tomato mayo and lettuce,$5.50,Entree
+Chocolate Cake,fresh baked and served with ice cream,$3.99,Dessert
+Sirloin Burger,Made with grade A beef,$7.99,Entree
+Root Beer,16oz of refreshing goodness,$1.99,Beverage
+Iced Tea,with Lemon,$.99,Beverage
+Grilled Cheese Sandwich,On texas toast with American Cheese,$3.49,Entree
+Veggie Burger,Made with freshest of ingredients and home grown spices,$5.99,Entree
